@@ -1,0 +1,34 @@
+{
+  "book-room": [
+    {
+      "id": 1,
+      "fullName": "John Doe",
+      "phone": "123456789",
+      "email": "john@example.com",
+      "service": [
+        "Thuê xe máy"
+      ],
+      "date": [
+        "2023-10-01",
+        "2023-10-02"
+      ],
+      "time": "08:00"
+    },
+    {
+      "id": "6dcc",
+      "fullName": "Doan Tran Quang Huy",
+      "phone": "0935062645",
+      "email": "huydtqde181039@fpt.edu.vn",
+      "service": [
+        "Thuê xe máy",
+        "Thuê xe hơi"
+      ],
+      "date": [
+        "30/10/2024",
+        "20/11/2024"
+      ],
+      "time": "",
+      "gift": " xe hơi"
+    }
+  ]
+}
